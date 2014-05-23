@@ -2,8 +2,8 @@
 //  main.m
 //  UUID
 //
-//  Created by 科技慧享 on 14-5-23.
-//  Copyright (c) 2014年 weshare. All rights reserved.
+//  Created by SeanChense on 14-5-23.
+//  Copyright (c) 2014年 SeanChense. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
